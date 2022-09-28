@@ -1,0 +1,13 @@
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\bin\Debug\Decisions.xml
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\obj\Debug\Decisions.vbproj.AssemblyReference.cache
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\obj\Debug\Decisions.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\obj\Debug\Decisions.Form1.resources
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\obj\Debug\Decisions.Resources.resources
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\obj\Debug\Decisions.vbproj.GenerateResource.cache
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\obj\Debug\Decisions.vbproj.CoreCompileInputs.cache
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\obj\Debug\Decisions.xml
+C:\Users\cmdeu986\source\repos\Decisions\Decisions\obj\Debug\Decisions.pdb

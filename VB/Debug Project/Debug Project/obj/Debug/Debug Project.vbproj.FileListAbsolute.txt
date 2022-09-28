@@ -1,0 +1,13 @@
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\bin\Debug\Debug Project.exe.config
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\bin\Debug\Debug Project.exe
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\bin\Debug\Debug Project.pdb
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\bin\Debug\Debug Project.xml
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\obj\Debug\Debug Project.vbproj.AssemblyReference.cache
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\obj\Debug\Debug Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\obj\Debug\Debug_Project.Form1.resources
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\obj\Debug\Debug_Project.Resources.resources
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\obj\Debug\Debug Project.vbproj.GenerateResource.cache
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\obj\Debug\Debug Project.vbproj.CoreCompileInputs.cache
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\obj\Debug\Debug Project.exe
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\obj\Debug\Debug Project.xml
+C:\Users\cmdeu986\source\repos\Debug Project\Debug Project\obj\Debug\Debug Project.pdb

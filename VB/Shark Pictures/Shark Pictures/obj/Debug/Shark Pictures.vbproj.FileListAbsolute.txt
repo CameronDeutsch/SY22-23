@@ -1,0 +1,13 @@
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\bin\Debug\Shark Pictures.exe.config
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\bin\Debug\Shark Pictures.exe
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\bin\Debug\Shark Pictures.pdb
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\bin\Debug\Shark Pictures.xml
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\obj\Debug\Shark Pictures.vbproj.AssemblyReference.cache
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\obj\Debug\Shark Pictures.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\obj\Debug\Shark_Pictures.Form1.resources
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\obj\Debug\Shark_Pictures.Resources.resources
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\obj\Debug\Shark Pictures.vbproj.GenerateResource.cache
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\obj\Debug\Shark Pictures.vbproj.CoreCompileInputs.cache
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\obj\Debug\Shark Pictures.exe
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\obj\Debug\Shark Pictures.xml
+C:\Users\cmdeu986\source\repos\Shark Pictures\Shark Pictures\obj\Debug\Shark Pictures.pdb

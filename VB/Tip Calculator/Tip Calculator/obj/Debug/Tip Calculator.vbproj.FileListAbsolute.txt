@@ -1,0 +1,13 @@
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.xml
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.vbproj.AssemblyReference.cache
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\obj\Debug\Tip_Calculator.Form1.resources
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\obj\Debug\Tip_Calculator.Resources.resources
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.vbproj.GenerateResource.cache
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.xml
+C:\Users\cmdeu986\source\repos\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb
