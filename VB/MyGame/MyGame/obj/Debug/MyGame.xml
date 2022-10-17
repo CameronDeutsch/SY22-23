@@ -22,12 +22,47 @@ MyGame
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:MyGame.My.Resources.Resources.BlackBackground">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.BlackBackground1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:MyGame.My.Resources.Resources.donut_circle">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:MyGame.My.Resources.Resources.froyo_circle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.LongRedPlayer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.NeonBluePlay">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.NeonPurpleBall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.NeonredPlayer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.NeonYellowPlayBall">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
